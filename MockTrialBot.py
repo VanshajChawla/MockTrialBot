@@ -1,5 +1,4 @@
 import streamlit as st
-import random
 import google.generativeai as genai
 import mocktrialapi
 
